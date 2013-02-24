@@ -25,7 +25,7 @@
 
   <groupId>org.jszip.redist</groupId>
   <artifactId>angularjs</artifactId>
-  <version>1.0.2-SNAPSHOT</version>
+  <version>1.0.2</version>
   <packaging>jszip</packaging>
 
   <name>AngularJS</name>
@@ -50,7 +50,7 @@
     <connection>scm:git:git://github.com/jszip/angularjs-redist.git</connection>
     <developerConnection>scm:git:git@github.com:jszip/angularjs-redist.git</developerConnection>
     <url>http://github.com/jszip/angularjs-redist/tree/master/</url>
-    <tag>HEAD</tag>
+    <tag>angularjs-1.0.2</tag>
   </scm>
   <issueManagement>
     <system>github</system>
